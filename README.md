@@ -11,10 +11,6 @@ Description: This code is capable to be used for the economic and economic stati
 
 For some detailed discussion on concepts and applications, see:
 
-- M. A. Pasha, R. Deardon and M. A. Rahim, Multi-response and Multi-cause Process
-Monitoring by Applying Proportional Hazards Model in Optimal Design of T2 Control
-Charts (Under Revision)
-
 - M. A. Pasha, M. Bameni Moghadam, N. Nematollahi & S. Fani (2017): A generalized model
 for multiplicity-cause economic and economic statistical design of Xbar control
 charts with proportional hazards shock model, Communications in Statistics - Simulation and
